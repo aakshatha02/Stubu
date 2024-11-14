@@ -1,5 +1,5 @@
 openai:
-  api_key: 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
+  api_key: 'api-key'
   engine: gpt-3.5-turbo-instruct
 
 database:
